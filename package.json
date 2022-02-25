@@ -1,0 +1,15 @@
+{
+  "name": "cool-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "sass": "^1.49.8",
+    "vite": "^2.8.0"
+  }
+}
