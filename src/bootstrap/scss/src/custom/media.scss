@@ -1,0 +1,18 @@
+@import "../functions";
+@import "../variables";
+@import "../mixins/breakpoints";
+
+// bootstrap media query sass mixins
+// example ::
+/*
+
+  @include media-breakpoint-down(lg) {
+  }
+
+  @include media-breakpoint-down(md) {
+  }
+
+  @include media-breakpoint-down(sm) {
+  }
+
+*/
